@@ -1,6 +1,3 @@
-Create a `README.md` file in the project directory and include the following content:
-
-```
 # SMS Bot using Plivo SDK and OpenAI API
 
 This SMS bot is a simple Flask application that uses the Plivo SDK to receive SMS messages and the OpenAI API to answer questions sent via SMS.
@@ -57,5 +54,5 @@ To use this bot in production, you would need to deploy the Flask application to
 ## Note
 
 This example is a simple implementation of an SMS bot and might not be suitable for production use without proper error handling and security measures.
-```
+
 
