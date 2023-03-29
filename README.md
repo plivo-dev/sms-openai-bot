@@ -10,7 +10,7 @@ This SMS bot is a simple Flask application that uses the Plivo SDK to receive SM
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/mike-plivo/plivo-sms-openai-bot.git
+git clone https://github.com/plivo-dev/plivo-sms-openai-bot.git
 cd plivo-sms-openai-bot
 ```
 
