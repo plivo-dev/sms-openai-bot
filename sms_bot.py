@@ -14,7 +14,7 @@ load_dotenv()
 openai.api_key = os.getenv("OPENAI_API_KEY")
 # Set Plivo credentials
 plivo_auth_id = os.getenv("PLIVO_AUTH_ID")
-plivo_auth_token = os.getenv"PLIVO_AUTH_TOKEN")
+plivo_auth_token = os.getenv("PLIVO_AUTH_TOKEN")
 
 # Retrieve OpenAI engine from the environment variable
 try:
