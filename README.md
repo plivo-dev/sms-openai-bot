@@ -32,7 +32,7 @@ pip3 install -r requirements.txt
 OPENAI_API_KEY="your_openai_key"
 PLIVO_AUTH_ID="your_plivo_auth_id"
 PLIVO_AUTH_TOKEN="your_plivo_auth_token"
-OPENAI_ENGINE="your_openai_engine"
+OPENAI_ENGINE="your_openai_engine" # if not set, default is "gpt-3.5-turbo"
 ```
 
 Replace the placeholders with your actual OpenAI API key, Plivo Auth ID, Plivo Auth Token, and OpenAI engine.
